@@ -1,0 +1,33 @@
+PODS:
+  - Amber (1.1.2):
+    - Bond (~> 6.5.0)
+  - Bond (6.5.2):
+    - Differ (~> 1.0)
+    - ReactiveKit (~> 3.8)
+  - Differ (1.0.3)
+  - Magics (1.0.14)
+  - ReactiveKit (3.9.3)
+
+DEPENDENCIES:
+  - Amber
+  - Bond
+  - Magics
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Amber
+    - Bond
+    - Differ
+    - Magics
+    - ReactiveKit
+
+SPEC CHECKSUMS:
+  Amber: 2c0b9013686c90ecf02c39efdb57bb0330cd5568
+  Bond: 2b8c1070674fe8ba908ae11dc4e7607377d17bab
+  Differ: 0c220ac75542f5f17f91b1303b85bf07d871ecd7
+  Magics: cb036750ab9a4a3d7e7904c360fc804db8636fd8
+  ReactiveKit: 8163ec428d11cea4d3c7be07ba3a3ddd4cb80e8f
+
+PODFILE CHECKSUM: 94ca014ad64e4e379dea6f3d96c1b7240767e90f
+
+COCOAPODS: 1.5.0
